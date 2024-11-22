@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "image": "../src/assets/Client photo 1.png",
+    "name": "Sacdiyo Mohamed",
+    "title": "Graphic Designer",
+    "oraahda":  "In promotion and advertising, a testimonial or show consists of a person's written or spoken statement extolling the virtue of a product. The term  most commonly applies to the sales-pitches attributed to ordinary citizens, whereas the word endorsement usually applies to pitches by celebrities."
+  },
+  {
+    "id":2,
+    "image": "../src/assets/Client photo 2.png",
+    "name": "Abdi Kadir Cali",
+    "title": "Web Designer",
+    "oraahda": "In promotion and advertising, a testimonial or show consists of a person's written or spoken statement extolling the virtue of a product. The term most commonly applies to the sales-pitches attributed to ordinary citizens, whereas the word endorsement usually applies to pitches by celebrities.."
+  },
+  {
+    "id": 3,
+    "image": "../src/assets/Client photo 3.png",
+    "name": "Xuseen Abdi",
+    "title": "Web Developer",
+    "oraahda": "In promotion and advertising, a testimonial or show consists of a person's written or spoken statement extolling the virtue of a product. The term most commonly applies to the sales-pitches attributed to ordinary citizens, whereas the word endorsement usually applies to pitches by celebrities."
+  }
+]
