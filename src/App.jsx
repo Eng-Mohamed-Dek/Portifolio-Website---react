@@ -1,7 +1,7 @@
 import { Routes, Route } from "react-router-dom";
 import "./App.css";
 import Home from "./pages/Home";
-import CaseStu from "./pages/caseStu";
+import CaseStu from "./pages/CaseStu";
 import Testimony from "./pages/Testimony";
 import Header from "./components/Header";
 import Footer from "./components/Footer";
